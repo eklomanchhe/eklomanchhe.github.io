@@ -1,0 +1,9 @@
+Package: com.eklomanchhe.meronepal
+Name: Mero-Nepal
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A beautiful Winterboard theme that changes the looks of springboard of iOS, and Boot logo, Complete Theme package (Nepalese Para)
+Maintainer: eklomanchhe <cvakotianil@gmail.com>
+Author: eklomanchhe <cvakotianil@gmail.com>
+Section: Themes (SpringBoard)

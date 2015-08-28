@@ -1,0 +1,39 @@
+<package>
+	<id>com.decimation.alm</id>
+	<name>Full Package</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>winterboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Mero Dialer UI Theme for Dialing Pad of your iPhone</description>
+		<description>Looks best With MeroDialer, Find it in Settings >> Winterboard >> MeroDialer.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Look Nepal Flag Logo on Dialer.</description>
+			<image>1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Updated version of MeroDialer for winterboard.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Github</name>
+			<url>https://eklomanchhe.github.io</url>
+		</link>
+
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/cvakotianil</url>
+		</link>
+
+	</links>
+</package>

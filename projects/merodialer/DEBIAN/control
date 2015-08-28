@@ -1,0 +1,10 @@
+Package: com.eklomanchhe.merodialer
+Name: Mero-Dialer
+Depends: winterboard
+Version: 1.1
+Architecture: iphoneos-arm
+Description: This is Winterboard theme that changes the looks of Dialing Keypad
+Depiction: https://eklomanchhe.github.io/depiction/index.html?p=merodialer
+Maintainer: eklomanchhe <cvakotianil@gmail.com>
+Author: eklomanchhe <cvakotianil@gmail.com>
+Section: Themes (SpringBoard)
