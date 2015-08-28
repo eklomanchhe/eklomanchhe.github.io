@@ -5,9 +5,9 @@ Maintainer: eklomanchhe <cvakotianil@gmail.com>
 Depends: winterboard
 Filename: .//debs/com.eklomanchhe.merodialer_1.1_iphoneos-arm.deb
 Size: 1790826
-MD5sum: ea12fb4839562bf9197b6ea9acb163c4
-SHA1: 6d938c44b575ce290886cd66bbbc435a2870f278
-SHA256: 97f110503167e54a883bb5ad3198d9ab15a3527fdbedefda7ffe83f24109a9f6
+MD5sum: f0d0fa844ea8bfb1cd6c293aa4bde99e
+SHA1: e854ba5ed40596a8b4e514c681077b6582db20e7
+SHA256: 0ae2903c25a0a826a1492c932ac31823958bb745b3a6911b07bdb144e2a6b2ad
 Section: Themes (SpringBoard)
 Description: This is Winterboard theme that changes the looks of Dialing Keypad
 Author: eklomanchhe <cvakotianil@gmail.com>
@@ -21,9 +21,9 @@ Maintainer: eklomanchhe <cvakotianil@gmail.com>
 Depends: winterboard
 Filename: .//debs/com.eklomanchhe.meronepal_1.0_iphoneos-arm.deb
 Size: 5998926
-MD5sum: 8152bb6b61eb5395df0cfc4f94b1b03e
-SHA1: 7be081068929007a0b2c50b57d6903c230895eea
-SHA256: 2f2af03959c48a2c6acd7e2466ca2a7087ab456875ebc60f98d01f42f845181a
+MD5sum: e96ecaf0401d470cd704e645e073fc77
+SHA1: 0b0d80d3b95ab1ec90e5162d545116f007c652d3
+SHA256: 98fc6c76d2df117dfb8e3e0ba545854ace70b8883f7785926e37b204220127d9
 Section: Themes (SpringBoard)
 Description: A beautiful Winterboard theme that changes the looks of springboard of iOS, and Boot logo, Complete Theme package (Nepalese Para)
 Author: eklomanchhe <cvakotianil@gmail.com>
