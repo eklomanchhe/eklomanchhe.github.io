@@ -17,12 +17,12 @@
       <header>
         <h1>Coursera frontend course assignments</h1>
         <p>Assignments for Coursera <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">&quot;HTML, CSS, and Javascript for Web Developers&quot;</a> course.</p>
-		<p>The asignment solutions were created by Bruno Mikuš.</p>
+		<p>This is the Solution tree for Coursera Online Assignments,  done by Anil Shivakoti.</p>
 		
         <ul>
           <li><a href="https://www.coursera.org/">Visit <strong>Coursera</strong></a></li>
 		  <li><a href="https://github.com/bikush/coursera-frontend-dev-course/tree/gh-pages">View <strong>Sources</strong></a></li>
-          <li><a href="https://github.com/bikush/" target="_blank">More by <strong>Bruno</strong></a></li>
+          <li><a href="https://github.com/bikush/" target="_blank">More by <strong>Anil</strong></a></li>
         </ul>
       </header>
       <section>
@@ -45,7 +45,7 @@
 
 <h3>
 <a id="module-5" class="anchor" href="#module-5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Module 4</h3>
-<p>Module 4  <a href="http://bit.ly/1TpBKTV" target="_blank">assignment</a> and the <a href="module-5/index.html">solution</a>.</p>
+<p>Module 5  <a href="http://bit.ly/1TpBKTV" target="_blank">assignment</a> and the <a href="module-5/index.html">solution</a>.</p>
 
 
 	      
@@ -56,7 +56,7 @@
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/eklomanchhe">Anil Shivakoti</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted From GitHub Pages &mdash; Theme Reference: <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
