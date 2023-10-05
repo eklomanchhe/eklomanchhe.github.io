@@ -1,126 +1,112 @@
-/* Courser Assignment 2 Basic Style*/
+/* Coursera Module 2 Basic Style - Anil Shivakoti */
 * {
-  box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 body {
-  background-color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
 }
 
 h1 {
-  margin: 100px;
-  text-align: center;
-  font-family: Helvetica;
-  font-weight: bold;
-  font-size: 175%;
+	margin: 15px;
+	text-align: center;
+	font-size: 150%;
 }
 
-section {
-  position: relative;
-  padding: 15px;
-  width: 100%;
+.box {
+	border: 1px solid black;
+	background-color: gray;
+	margin: 5px 10px 15px 10px;
 }
 
-p {
-  position: relative;
-  clear: right;
+.box-heading {
+	float: right;
+	position: relative;
+	right: -1px;
+	top: -1px;
+	min-width: 130px;
+	text-align: center;
+	margin: 0px;
+	margin-bottom: 10px;
+	border: 1px solid black;
+	padding: 5px;
+	color: black;
+	font-size: 125%;
 }
 
-div {
-  position: relative;
-  background-color: gray;
-  border: 1px solid black;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: auto;
+.box-heading-1 {
+	background-color: rgb(214, 124, 124);
 }
 
-.sub1 {
-  float: right;
-  width: 100px;
-  padding: 5px;
-  margin: 0px;
-  border: 1px solid black;
-  text-align: center;
-  font-size: 125%;
-  font-weight: bold;
-  background-color: rgb(214, 124, 124);
-
+.box-heading-2 {
+	color: white;
+	background-color: rgb(216, 80, 80);
 }
 
-.sub2 {
-  float: right;
-  color: white;
-  width: 100px;
-  padding: 5px;
-  margin: 0px;
-  border: 1px solid black;
-  text-align: center;
-  font-size: 125%;
-  font-weight: bold;
-  background-color: maroon;
-
+.box-heading-3 {
+	background-color: rgb(223, 212, 121);
 }
 
-.sub3 {
-  color: black;
-  float: right;
-  width: 100px;
-  padding: 5px;
-  margin: 0px;
-  border: 1px solid black;
-  text-align: center;
-  font-size: 125%;
-  font-weight: bold;
-  background-color: rgb(223, 212, 121);
-
+.box-content {
+	clear: right;
+	height: 300px;
+	text-align: justify;
+	width: 95%;	
+	padding-right: 5%;	
+	margin-right: 0px;
+	margin-left: auto;
+	margin-top:10px;
+	color: white;
+	overflow: auto;
 }
 
-.content {
-  padding: 5px;
-  border: none;
-  background-color: gray;
-  font-family: Helvetica;
-  color: black;
-  margin: 0px;
-  height: 200px;
-  overflow: auto;
+.p {
+	border: 1px solid black;
+	background-color: #A52A2A;
+	font-family: Helvetica;
 }
 
 .row {
-  width: 90%;
+	width: 100%;
 }
 
-/* Desktop View */
+/*** Desktop [992,...) ***/
 @media (min-width: 992px) {
-  .column-lg-4 {
-      float: left;
-      width: 33.33%;
-  }
+	.col-d-1, .col-d-2, .col-d-3 {
+		float: left;
+		/*border: 1px solid green;*/
+	}
+	.col-d-1 {
+		width: 33.33%;
+	}
+	.col-d-2 {
+		width: 66.66%;
+	}
+	.col-d-3 {
+		width: 100%;
+	}
 }
 
-/* Tab/Pad Vie*/
+/*** Tablet [768,...,991] ***/
 @media (min-width: 768px) and (max-width: 991px) {
-  .colmn-md-6 {
-      float: left;
-      width: 50%;
-      margin-left: auto;
-      margin-right: auto;
-  }
-
-  .colmn-md-12 {
-      float: left;
-      width: 100%;
-      margin-left: auto;
-      margin-right: auto;
-  }
+	.col-t-1, .col-t-2 {
+		float: left;
+		/*border: 1px solid green;*/
+	}
+	.col-t-1 {
+		width: 50%;
+	}
+	.col-t-2 {
+		width: 100%;
+	}
 }
 
-/* Mobile View */
+/*** Mobile (...,767] ***/
 @media (max-width: 767px) {
-  .colmn-sm-12 {
-      float: left;
-      width: 100%;
-  }
+	.col-m-1 {
+		float: left;
+		/*border: 1px solid green;*/
+		width: 100%;
+	}
 }
