@@ -15,11 +15,11 @@ var dc = {};
 
 var homeHtmlUrl = "snippets/home-snippet.html";
 var allCategoriesUrl =
-  "http://eklomanchhe.github.io/coursera-online-assignments/module-5/index.html/categories.json";
+  "http://eklomanchhe.github.io/coursera-online-assignments/module-5/categories.json";
 var categoriesTitleHtml = "snippets/categories-title-snippet.html";
 var categoryHtml = "snippets/category-snippet.html";
 var menuItemsUrl =
-  "http://eklomanchhe.github.io/coursera-online-assignments/module-5/index.html/menu_items.json?category=";
+  "http://eklomanchhe.github.io/coursera-online-assignments/module-5/menu_items.json?category=";
 var menuItemsTitleHtml = "snippets/menu-items-title.html";
 var menuItemHtml = "snippets/menu-item.html";
 
